@@ -1,0 +1,9 @@
+development:
+  host: localhost
+  database: mongoid_test_development
+  identity_map_enabled: true
+
+test:
+  host: localhost
+  database: mongoid_test_test
+  identity_map_enabled: true
